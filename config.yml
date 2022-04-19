@@ -3,7 +3,8 @@
 # title: My New Hugo Site
 # theme: PaperMod
 
-baseURL: "https://jianye0428.github.io/"
+# baseURL: "https://jianye0428.github.io/"
+baseURL: "https://jianye0428.github.io/jian-s-blog/"
 title: Jian's Blog
 paginate: 5
 theme: PaperMod
